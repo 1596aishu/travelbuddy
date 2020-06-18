@@ -1,0 +1,65 @@
+nav.navbar, .navbar-default {
+    background-color: rgba(214, 46, 16, 0.699);
+    color: rgb(224, 230, 233);
+    text-decoration-color: rgb(35, 35, 36);
+}
+
+.main {
+    margin-left: 200px; /* Same as the width of the sidenav */
+  }
+.navbar-default{
+     background-color: rgb(218, 213, 213);
+     border: none;
+     border-radius:0;
+}
+#exTab2 h3 {
+    color : rgb(109, 103, 103);
+    background-color: #428bca;
+    padding : 5px 15px;
+  }
+
+.navbar-default .navbar-nav > li > a {
+     color: rgb(102, 98, 98);
+}
+
+ .navbar-default .navbar-brand {
+     color: rgb(100, 97, 97);
+}
+
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+    background-color: transparent;
+}
+
+.mr-auto{
+    font-size: large;
+    font-weight: 600;
+    
+}
+
+.nav-item {
+    border: none;
+    color: white;
+    padding: 5px 5px;
+    font-size: 20px;
+  }
+  
+  /* Darker background on mouse-over */
+  .nav-item:hover {
+      text-decoration-color: rgb(235, 232, 232);
+    background-color: rgb(112, 110, 110);
+  }
+
+  .btn {
+    border: none;
+    color: white;
+    padding: 5px 5px;
+    font-size: 20px;
+  }
+  
+  /* Darker background on mouse-over */
+  .btn:hover {
+      text-decoration-color: rgb(235, 232, 232);
+    background-color: rgb(211, 88, 88);
+  }
+
+
